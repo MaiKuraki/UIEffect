@@ -1,3 +1,10 @@
+## [5.11.3](https://github.com/mob-sakai/UIEffect/compare/5.11.2...5.11.3) (2026-07-04)
+
+
+### Bug Fixes
+
+* TextMeshPro support is not working ([9d98096](https://github.com/mob-sakai/UIEffect/commit/9d980961d6cf45e519ad96bf2e7260ed515f0f70)), closes [#402](https://github.com/mob-sakai/UIEffect/issues/402)
+
 ## [5.11.2](https://github.com/mob-sakai/UIEffect/compare/5.11.1...5.11.2) (2026-07-02)
 
 
