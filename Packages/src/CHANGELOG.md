@@ -1,3 +1,10 @@
+## [5.11.4](https://github.com/mob-sakai/UIEffect/compare/5.11.3...5.11.4) (2026-07-22)
+
+
+### Bug Fixes
+
+* infinite asset import loop caused by unchanged ProjectSettings being marked dirty ([dbf8ae0](https://github.com/mob-sakai/UIEffect/commit/dbf8ae00f50470912d458fda853a34ef94d7d533)), closes [#404](https://github.com/mob-sakai/UIEffect/issues/404)
+
 ## [5.11.3](https://github.com/mob-sakai/UIEffect/compare/5.11.2...5.11.3) (2026-07-04)
 
 
