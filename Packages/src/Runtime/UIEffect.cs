@@ -1473,6 +1473,7 @@ namespace Coffee.UIEffects
 
         protected override void OnDestroy()
         {
+            base.OnDestroy();
             InternalListPool<UIEffectReplica>.Return(ref _replicas);
         }
 
