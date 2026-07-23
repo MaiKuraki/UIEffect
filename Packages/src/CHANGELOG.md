@@ -1,3 +1,10 @@
+## [5.11.5](https://github.com/mob-sakai/UIEffect/compare/5.11.4...5.11.5) (2026-07-23)
+
+
+### Bug Fixes
+
+* fix memory leak ([2dcb7f7](https://github.com/mob-sakai/UIEffect/commit/2dcb7f7e8678a2ffcf3832d0c5011aa1da6c3677)), closes [#405](https://github.com/mob-sakai/UIEffect/issues/405)
+
 ## [5.11.4](https://github.com/mob-sakai/UIEffect/compare/5.11.3...5.11.4) (2026-07-22)
 
 
